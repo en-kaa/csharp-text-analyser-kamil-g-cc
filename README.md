@@ -75,3 +75,5 @@ This class should be responsible for presenting the data to the user. You are fr
 The Main class of the program. It should allow the user to pass to text files for analysis as CLI arguments. Also, measure  the time of the program's execution. For example:
 
 >dotnet run -- text1.txt text2.txt
+
+For testing purposes only :)
